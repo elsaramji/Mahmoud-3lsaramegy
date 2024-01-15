@@ -1,35 +1,14 @@
-# Dream Saramegy softwear company🤔🤩
-- 👋 Hi, I’m MahmoudElsaramegy
-- 👀 I’m interested in {Drat,Flutter}
-- 🌱 I’m currently learning {Flutter}
-- 📫 How to reach me Mahmoud Elsaramegy.. 
+# Mahmoud Elsaramejy (●'◡'●)
+###### Peace be upon you, I am Mahmoud Al-Sarmiaji. At the age of 17, I started my fascinating and exciting journey on my own, where  I relied on myself in teaching myself,gave me a wealth of experience and skills in other programming-related fields" to make it more concise. life and college education also helped me develop the skill of rapid self-learning" to make it more logical and flow better.
+
+- Dart  Basics OOP(Classes,inheritance,ploymorphis and crucial).
+- flutter Mobile development (Android & iOS)and web.
+- UI/UX design principles
+- Versoin Control Systems (VCS) (Git&Githup).
+- Application Programming Interface (API).
+- Database (SQLite& FireStore)
+- Animations And effects (Learning progress).
 # This Store to All Code 👨‍💻
-### Massage My Any Time 😍 👇
-#### [Instagram](https://www.instagram.com/3lsaramegy) 
 ### mahmoudelsaramegy@gmail.com
-<!---
-- 👋 Hi, I’m MahmoudElsaramegy
-- 👀 I’m interested in {Drat,Flutter}
-- 🌱 I’m currently learning {Flutter}
-- 📫 How to reach me Mahmoud Elsaramegy.. 
-
-<!---
-3lsaramegy/3lsaramegy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-_______________________________________________________________
-# HI im Mahmoud Elsaramegy 😊😊🤨 
- ## Cell My Any Time😍 [facebook](https://www.facebook.com/3lsaramegyx500/)  
 
 
-## I can Do👇👇
-### any code  By Python 😎
-### Some codes By C++ {}; 😎🤑
-## 👀 I’m interested in {C++,python,Drat} 🤴🤴
-## 👨‍🏫👨‍🏫 I’m currently learning {C++,Dart} 😅
-
-* I Study
-    * FLUTTER 😍
-    * C++    🤯🤯
-    * Dart  😮🤔😮
-# Thank You To Visit My 😍🥰😘
---->
