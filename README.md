@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **build web Applications by Flutter,payment services and data security**
 
-- 🤝 I’m Currently [Academic Specialist in Flutter at GDSC](https://www.linkedin.com/company/gdgoncampushun/)
+- 🤝 I’m Currently [Voice Head in Flutter at GDG Cairo University ](https://www.linkedin.com/company/dsccairo/?originalSubdomain=eg)
+- 🤝 I’m Currently [Academic Specialist in Flutter at GDG](https://www.linkedin.com/company/gdgoncampushun/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/elsaramji](https://github.com/elsaramji)
 
