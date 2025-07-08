@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsaramji&label=Profile%20views&color=0e75b6&style=flat" alt="elsaramji" /> </p>
 
-- 🔭 I’m currently working on [Fruits Store](https://github.com/elsaramji/store-hup.git)
+- 🔭 I’m currently working on [PomoTasks][(https://github.com/elsaramji/store-hup.git](https://github.com/elsaramji/pomotasks.git))
 
 - 🌱 I’m currently learning **build web Applications by Flutter,payment services and data security**
 
-- 🤝 I’m Currently [Voice Head in Flutter at GDG Cairo University ](https://www.linkedin.com/company/dsccairo/?originalSubdomain=eg)
-- 🤝 I’m Currently [Academic Specialist in Flutter at GDG](https://www.linkedin.com/company/gdgoncampushun/)
+- 🤝 I’m Currently [Voice Head in Flutter at GDG Cairo University ](https://www.linkedin.com/company/dsccairo)
+- 🤝 I’m Currently [Academic Specialist in Flutter at GDG](https://www.linkedin.com/showcase/google-developer-groups)
 
 - 👨‍💻 All of my projects are available at [https://github.com/elsaramji](https://github.com/elsaramji)
 
