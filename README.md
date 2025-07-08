@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ahmed Al-Saramji</h1>
-<h3 align="center">Junior Flutter Developer</h3>
+<h3 align="center">Mobile Developer (Flutter) | Scalable App Design, Clean Architecture & Firebase | CI/CD & API Integration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsaramji&label=Profile%20views&color=0e75b6&style=flat" alt="elsaramji" /> </p>
 
